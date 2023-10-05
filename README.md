@@ -1,2 +1,2 @@
-# react_test_code
-react-testing-library 를 활용한 테스트코드 연습
+@testing-library/react 를 통한 테스트 코드 연습
+todolist 만들어보면서 연습할 계획
